@@ -1,4 +1,4 @@
 # LogReg
-A simple logistic regression implementation
-You can see how it finds the line which seperates the two class in 15 epochs.
-Each epoch has a subplotting.
+A simple logistic regression implementation.
+LogReg3 shows an example with 2 features.
+LogReg4 shows the same example but solves the problem with a class which is generalized for any number of features. 
